@@ -12,6 +12,7 @@ In the practice webform for the learners --
   - Then submited the button
   - Finally, Asserted that registration is successful
  
-  [Practice webform for learners test Result](![test-new-2-1](https://github.com/user-attachments/assets/f0a59419-03e6-464b-a359-312d265b2991))
+  [Practice webform for learners test Result](![Uploading test-new-2-1.PNG…]()
+)
 
 
